@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahad</h1>
 
-- 📫 How to reach me **mahadahmed_@outlook.com**
-
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mahadahmed99/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150" alt="casper-kristiansson"/></a>
@@ -9,7 +7,7 @@
 
 <br>
 
-<!--https://github.com/alexandresanlim/Badges4-README.md-Profile-->
+- 📫 How to reach me **mahadahmed_@outlook.com**
 
 <h3 align="left">Languages</h3>
 <p algin="left">
@@ -35,3 +33,5 @@
    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?&logo=node.js&logoColor=white"  height="25"></a>
   <img src="https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white" height="25">
 </p>
+
+![](https://komarev.com/ghpvc/?username=mahadaahmed)
