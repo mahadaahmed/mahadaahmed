@@ -32,6 +32,12 @@
   <img src="https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black" height="25">
    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?&logo=node.js&logoColor=white"  height="25"></a>
   <img src="https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="25">
 </p>
 
 ![](https://komarev.com/ghpvc/?username=mahadaahmed)
+
+
+<a href="http://www.github.com/mahadaahmed">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahadaahmed&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Mahad Ahmed's GitHub stats" />
+</a>
