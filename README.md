@@ -5,9 +5,7 @@
 <a href="https://www.linkedin.com/in/mahadahmed99/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="150" alt="casper-kristiansson"/></a>
 </p>
 
-<br>
 
-- 📫 How to reach me **mahadahmed_@outlook.com**
 
 <h3 align="left">Languages</h3>
 <p algin="left">
@@ -22,8 +20,6 @@
 
 </p>
 
-<br>
-
 <h3 align="left">Tools & Frameworks</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="25">
@@ -34,7 +30,3 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="25">
 </p>
-
-![](https://komarev.com/ghpvc/?username=mahadaahmed)
-
-
