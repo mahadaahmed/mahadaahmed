@@ -28,5 +28,5 @@
   <img src="https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black" height="25">
    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?&logo=node.js&logoColor=white"  height="25"></a>
   <img src="https://img.shields.io/badge/GIT-E44C30?logo=git&logoColor=white" height="25">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="20">
 </p>
